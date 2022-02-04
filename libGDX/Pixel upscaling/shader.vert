@@ -1,10 +1,10 @@
 /*
-	Pixel upscaling & antialiasing shader (vertex) for libGDX.
-	
-	Original code (public domain) for LÖVE engine by RNavega    https://github.com/RNavega/PixelArt-Antialias-Love2D/blob/master/main.lua
-	Adapted for libGDX by Alexander Laptev.
-	
-	License: CC0.
+    Pixel upscaling & antialiasing shader (vertex) for libGDX.
+
+    Original code (public domain) for LÖVE engine by RNavega    https://github.com/RNavega/PixelArt-Antialias-Love2D/blob/master/main.lua
+    Adapted for libGDX by Alexander Laptev.
+
+    License: CC0.
 */
 
 const float SMOOTH_SIZE = 1.0;
